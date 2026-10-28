@@ -1,11 +1,11 @@
-package cl.goldenoddjobs.solicitudes;
+package cl.goldenoddjobs.requests;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SolicitudesApplication {
+public class RequestsApplication {
     public static void main(String[] args) {
-        SpringApplication.run(SolicitudesApplication.class, args);
+        SpringApplication.run(RequestsApplication.class, args);
     }
 }

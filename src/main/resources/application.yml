@@ -20,3 +20,6 @@ spring:
 
 cognito:
   app-client-id: ${COGNITO_APP_CLIENT_ID}
+
+gateway:
+  api-secret: ${API_SECRET}
